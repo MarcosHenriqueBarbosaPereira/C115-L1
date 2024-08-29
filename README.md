@@ -24,7 +24,6 @@ O sistema permite que um cliente se registre, agende, consulte o status e cancel
 
 - `servidor.py`: Código do servidor que gerencia o cadastro e as consultas.
 - `cliente.py`: Código do cliente que interage com o servidor.
-- `README.md`: Este arquivo.
 
 ## Configuração e Execução
 
